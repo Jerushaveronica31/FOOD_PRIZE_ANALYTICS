@@ -1,0 +1,9 @@
+student_id,department,year,hosteller_or_day_scholar,monthly_allowance,daily_canteen_spend,primary_expense_category
+STU001,CSE,3,Hosteller,5000,80,Snacks & Tea
+STU002,ECE,2,Day Scholar,3500,45,Lunch
+STU003,MECH,4,Hosteller,6000,120,Full Meals
+STU004,EEE,1,Day Scholar,2500,30,Snacks & Tea
+STU005,IT,3,Hosteller,5500,90,Snacks & Tea
+STU006,CIVIL,2,Day Scholar,4000,50,Lunch
+STU007,CSE,4,Hosteller,7000,110,Full Meals
+STU008,ECE,1,Day Scholar,3000,40,Snacks & Tea
